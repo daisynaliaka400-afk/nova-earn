@@ -1,0 +1,13 @@
+// Central configuration - change values here only
+export const CONFIG = {
+  ACTIVATION_FEE: 200,
+  TILL_NUMBER: "5441898",
+  LEVEL1_REWARD: 100,
+  LEVEL2_REWARD: 50,
+  DEFAULT_TASK_TIMER: 30,
+  APP_NAME: "NOVA EARN",
+  CURRENCY: "KES",
+  MIN_WITHDRAWAL: 500,
+  MAX_DAILY_TASKS: 7,
+  INACTIVE_TASK_LIMIT: 2,
+};
